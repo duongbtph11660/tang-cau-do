@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hí cậu mk là Dương à!',
+    introTitle: 'Hí cậu lại là là Dương đây!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Tớ biết mà :)). Yêu em nhiều nhiều 😘😘',
+    mess: 'Tớ biết mà :)). Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Hứa hôm nào sẽ dẫn cậu đi quanh thế giới của tớ tin không :))',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100021705556593' //link mess của các bạn. VD: https://m.me/nam.nodemy
